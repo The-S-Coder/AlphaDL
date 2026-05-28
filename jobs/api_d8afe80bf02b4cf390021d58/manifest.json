@@ -1,0 +1,22 @@
+{
+  "job_id": "api_d8afe80bf02b4cf390021d58",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/9Yo8wMIH6fkFFSerEA_NzQ/Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL.mkv",
+  "suggested_filename": "Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL.mkv",
+  "total_size_bytes": 150412891,
+  "created_at_utc": "2026-05-28T18:51:21.423642+00:00",
+  "zip_folder": "jobs/api_d8afe80bf02b4cf390021d58/zip",
+  "zip_main_file": "Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL_split.z01",
+      "path": "jobs/api_d8afe80bf02b4cf390021d58/zip/Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL_split.zip",
+      "path": "jobs/api_d8afe80bf02b4cf390021d58/zip/Soul.Eater.S01E01.720p.WEB-DL.AWHT.AlphaDL_split.zip",
+      "size_bytes": 56041297
+    }
+  ]
+}
