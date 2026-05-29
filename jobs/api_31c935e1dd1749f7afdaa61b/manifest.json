@@ -1,0 +1,22 @@
+{
+  "job_id": "api_31c935e1dd1749f7afdaa61b",
+  "mode": "zip_split",
+  "file_url": "https://free-dl9.myalphadl.com/muEZA9bQjDB02EB6ggnusQ/02.I.Am.the.Star!.The.Big.Man.Is.Showing.Up.Here.AlphaDL.mkv",
+  "suggested_filename": "02.I.Am.the.Star_.The.Big.Man.Is.Showing.Up.Here.AlphaDL.mkv",
+  "total_size_bytes": 143732159,
+  "created_at_utc": "2026-05-29T15:19:07.045974+00:00",
+  "zip_folder": "jobs/api_31c935e1dd1749f7afdaa61b/zip",
+  "zip_main_file": "02.I.Am.the.Star_.The.Big.Man.Is.Showing.Up.Here.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "02.I.Am.the.Star_.The.Big.Man.Is.Showing.Up.Here.AlphaDL_split.z01",
+      "path": "jobs/api_31c935e1dd1749f7afdaa61b/zip/02.I.Am.the.Star_.The.Big.Man.Is.Showing.Up.Here.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "02.I.Am.the.Star_.The.Big.Man.Is.Showing.Up.Here.AlphaDL_split.zip",
+      "path": "jobs/api_31c935e1dd1749f7afdaa61b/zip/02.I.Am.the.Star_.The.Big.Man.Is.Showing.Up.Here.AlphaDL_split.zip",
+      "size_bytes": 49360593
+    }
+  ]
+}
